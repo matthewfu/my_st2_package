@@ -1,0 +1,30 @@
+{
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ColorPicker",
+		"DashDoc",
+		"ERB Snippets",
+		"FileDiffs",
+		"Git",
+		"MacTerminal",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Markdown Todo",
+		"Open Folder",
+		"Open Recent Files",
+		"Package Control",
+		"PlainTasks",
+		"Rails File Switcher",
+		"Rails Migrations List",
+		"Rails Partial",
+		"RailsCasts Colour Scheme",
+		"RubyTest",
+		"SideBarEnhancements",
+		"Theme - Soda"
+	]
+}
